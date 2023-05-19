@@ -1,0 +1,1 @@
+<p>Hai ordinato una {{$data['beer_name']}}. Grazie {{$data['name']}}</p>

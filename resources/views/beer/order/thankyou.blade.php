@@ -1,0 +1,1 @@
+Grazie di aver acquistato {{session('data')}}
